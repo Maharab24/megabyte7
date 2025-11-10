@@ -102,7 +102,7 @@ const Megabyte7Landing = () => {
             <div className="flex items-center">
               <div className="flex items-center space-x-3 group cursor-pointer">
                 <div className="w-10 h-10 bg-gradient-to-r from-[#f26122] to-[#ed1b24] rounded-xl flex items-center justify-center transform group-hover:scale-110 transition-all duration-300 shadow-lg">
-                  <img src="src\assets\icon.jpg" alt="" />
+                  <img src="public\icon.jpg" alt="" />
                 </div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-[#f26122] to-[#ed1b24] bg-clip-text text-transparent group-hover:scale-105 transition-transform duration-300">
                   Megabyte7
@@ -574,7 +574,7 @@ const Megabyte7Landing = () => {
             <div>
               <div className="flex items-center space-x-3 mb-6 group cursor-pointer">
                 <div className="w-10 h-10 bg-gradient-to-r from-[#f26122] to-[#ed1b24] rounded-xl flex items-center justify-center transform group-hover:rotate-12 transition duration-300">
-                  <img src="src\assets\icon.jpg" alt="" />
+                  <img src="public\icon.jpg" alt="" />
                 </div>
                 <span className="text-2xl font-bold text-white group-hover:scale-105 transition-transform duration-300">
                   Megabyte7
